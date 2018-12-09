@@ -1,0 +1,2 @@
+C:\work\MemoryCache\MemoryCache\obj\Debug\MemoryCache.csprojAssemblyReference.cache
+C:\work\MemoryCache\MemoryCache\obj\Debug\MemoryCache.csproj.CoreCompileInputs.cache
